@@ -102,3 +102,18 @@ body{
 .h11, .h21, .h31, .h41 {
     color: rgb(54, 49, 49);
 }
+@media (max-width:500px){
+    .small-container{
+        margin-left: 20%;
+        margin-right: 8%;
+    }
+    .btn{
+        margin: 40px 55px;
+    }
+    .image{
+        margin: 0 20px;
+    }
+    body{
+       background-attachment: fixed;
+    }
+}
