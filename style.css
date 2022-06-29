@@ -114,6 +114,7 @@ body{
         margin: 0 20px;
     }
     body{
+        width: 80%;
        background-attachment: fixed;
     }
 }
